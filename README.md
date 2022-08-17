@@ -1,7 +1,7 @@
 # Password-Generator
 Completely random password generator program coded using Python PL
 
-I created this basic program to help poeple in need and to have 
+I created this program to help people in need and to have 
 secured random passowrd for their SOCIAL LIFE accounts. So they can enjoy their privacy in peace.
 
 <h2>Here are the Password-Generator features:</h2>
