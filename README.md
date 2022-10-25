@@ -15,7 +15,7 @@ secured random passowrd for their SOCIAL LIFE accounts. So they can enjoy their 
 * Also history to see your randomly created password creatios
 
 
-<h2>To use this on windows you need to download and isntall Python from:</h2>
+<h2>To use this on windows you need to download and install Python from:</h2>
  "https://www.python.org/downloads/"
 
   For Linux or Mac OS you just need to run the program on your console.
