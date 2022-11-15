@@ -12,7 +12,7 @@ secured random passowrd for their SOCIAL LIFE accounts. So they can enjoy their 
 * option to create without complex symbols
 * generate completely random using your custom characters
 * has HELP menu to help users out during the process 
-* Also history to see your randomly created password creatios
+* Also history to see your randomly created password creations
 
 
 <h2>To use this on windows you need to download and install Python from:</h2>
